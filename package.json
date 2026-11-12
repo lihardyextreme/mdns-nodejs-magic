@@ -1,0 +1,24 @@
+{
+  "name": "mdns-nodejs-magic",
+  "version": "1.0.0",
+  "description": "mDNS client",
+  "homepage": "https://github.com/lihardyextreme/mdns-nodejs-magic#readme",
+  "bugs": {
+    "url": "https://github.com/lihardyextreme/mdns-nodejs-magic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihardyextreme/mdns-nodejs-magic.git"
+  },
+  "license": "LGPL-3.0",
+  "author": "Li Hardy Extreme",
+  "type": "commonjs",
+  "main": "Client.js",
+  "files": [
+    "Client.js",
+    "lib/"
+  ],
+  "scripts": {
+    "start": "node ./test/demo.js"
+  }
+}
